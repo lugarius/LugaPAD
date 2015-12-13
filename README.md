@@ -1,2 +1,2 @@
 # LugaPAD
-An graphical toolbox for Pentoo
+An graphical toolbox for Pentoo.
